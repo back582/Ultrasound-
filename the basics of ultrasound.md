@@ -1,4 +1,5 @@
-## 초음파
+## 초음파 Frequency![image](https://user-images.githubusercontent.com/17943248/177919436-2017e996-a566-447c-8020-bc8629b1b80c.png)
+
 초음파는 사람이 들을 수 있는 가청 영역(통상 20~20,000Hz) 이상의 음파를 의미한다. 
 
 ## 초저주파
