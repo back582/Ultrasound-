@@ -1,6 +1,8 @@
-## 초음파 Frequency![image](https://user-images.githubusercontent.com/17943248/177919436-2017e996-a566-447c-8020-bc8629b1b80c.png)
+## 초음파 Frequency
 
 초음파는 사람이 들을 수 있는 가청 영역(통상 20~20,000Hz) 이상의 음파를 의미한다. 
+
+![image](https://user-images.githubusercontent.com/17943248/177919587-49ac0755-5964-4b70-bc02-df001530a2e1.png)
 
 ## 초저주파
 초저주파는 사람이 들을 수 있는 가청 영역 이하의 음파를 의미한다.
